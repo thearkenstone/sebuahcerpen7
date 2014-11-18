@@ -1,9 +1,9 @@
 // ----------------------------------------
-// SHOW RECENT LABEL BY KUCOPAS
+// SHOW RECENT LABEL BY SebuahCerpen7.blogspot.com
 // ----------------------------------------
-// Design : kucopas Design
-// Date   : 08 12 2012
-// URL    : http://kuc0pas.blogspot.com/2012/12/cara-membuat-daftar-isi-label-tertentu.html
+// Design : Sebuah Cerpen 7
+// Date   : 18 11 2014
+// URL    : http://sebuahcerpen7.blogspot.com
 // ----------------------------------------
 
 function showrecentposts(json) {
@@ -21,5 +21,5 @@ function showrecentposts(json) {
     if (standardstyling) document.write('<li>');
     document.write(posttitle);}
     if (standardstyling) document.write('</li>');
-document.write('<div style="font-family:Arial; font-size:85%; margin-top:5px;"><a href="http://kuc0pas.blogspot.com/2012/12/cara-membuat-daftar-isi-label-tertentu.html" target="_blank" title="Cara Membuat Daftar Isi Perlabel">Widget by kucopas Design</a></div>');
+document.write('<div style="font-family:Arial; font-size:85%; margin-top:5px;"><a href="http://sebuahcerpen7.blogspot.com" target="_blank" title="Daftar Isi Blog">Widget by Sebuah Cerpen 7</a></div>');
 }
